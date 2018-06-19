@@ -27,6 +27,16 @@
           <nav class="cover-navigation navigation--social">
             <ul class="navigation">
 
+              {% if site.author.portfoilio_link %}
+                <!-- Facebook -->
+                <li class="navigation__item">
+                  <a href="{{ site.author.portfoilio_link }}" title="Portfolio Link" target="_blank">
+                    <i class="icon icon-social-adobe"></i>
+                    <span class="label">Facebook</span>
+                  </a>
+                </li>
+              {% endif %}
+
             {% if site.author.twitter_username %}
               <!-- Twitter -->
               <li class="navigation__item">
