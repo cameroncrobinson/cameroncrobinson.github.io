@@ -32,7 +32,17 @@
                 <li class="navigation__item">
                   <a href="{{ site.author.portfoilio_link }}" title="Portfolio Link" target="_blank">
                     <i class="icon icon-social-adobe"></i>
-                    <span class="label">Facebook</span>
+                    <span class="label">Portfolio</span>
+                  </a>
+                </li>
+              {% endif %}
+
+              {% if site.author.photo_site %}
+                <!-- Facebook -->
+                <li class="navigation__item">
+                  <a href="{{ site.author.photo_site }}" title="Photography" target="_blank">
+                    <i class="icon icon-camera"></i>
+                    <span class="label">Photography</span>
                   </a>
                 </li>
               {% endif %}
