@@ -47,6 +47,16 @@
                   </a>
                 </li>
               {% endif %}
+              
+              {% if site.author.medium_blog %}
+                <!-- Facebook -->
+                <li class="navigation__item">
+                  <a href="{{ site.author.medium_blog }}" title="blog" target="_blank">
+                    <i class="icon social-medium"></i>
+                    <span class="label">Blog</span>
+                  </a>
+                </li>
+              {% endif %}
 
             {% if site.author.twitter_username %}
               <!-- Twitter -->
