@@ -1,6 +1,6 @@
 ---
 title:  "React and Laravel"
-date:   2018-06-27
+date:   2018-07-05
 categories: [Web development]
 tags: [blog]
 ---
