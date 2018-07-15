@@ -1,6 +1,6 @@
 ---
 title:  ".NET | Diving Back In"
-date:   2018-07-05
+date:   2018-07-15
 categories: [Web development]
 tags: [blog]
 ---
