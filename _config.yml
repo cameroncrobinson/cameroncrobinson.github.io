@@ -1,46 +1,23 @@
-# Site settings
-title: Cameron Robinson
-description: 'Web Developer | Writer | Photographer'
-url: 'http://cameroncrobinson.com'
-baseurl: ''
-google_analytics: 'UA-96298015-4'
-# disqus_shortname: 'your-disqus-name'
+# Site Build Settings
 
-author:
-  name: 'Cameron Robinson'
-  email: robinson.cameron90@gmail.com
-  twitter_username:
-  facebook_username:
-  github_username:  cameroncrobinson
-  linkedin_username:  cameron-webdev
-  portfoilio_link: https://cameroncrobinson.myportfolio.com/
-  photo_site: https://www.dropdeadphoto.com/
-  medium_blog: https://medium.com/@cameronrobinson_37662
-
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-        layout: 'post'
+# jekyll-paginate configuration
+paginate:            5
 
 # Build settings
-destination: _site
-paginate: 10
-permalink: /:year/:title/
-markdown: kramdown
-highlighter: rouge
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 sass:
-    sass_dir: _sass
-    style: compressed
+  sass_dir: assets/css
+  style: :nested
 
-kramdown:
-  # use Github Flavored Markdown
-  input: GFM
-  # do not replace newlines by <br>s
-  hard_wrap: false
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title:		           "Millennial"
+description:	       "a Jekyll theme for running a blog or publication"
+author:              "Paul Le"
 
-plugins: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+# RSS 2.0 can be used instead of Atom by uncommenting following two lines
+#feed:
+#  path: rss-feed.xml
