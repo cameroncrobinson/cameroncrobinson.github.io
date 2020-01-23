@@ -27,8 +27,13 @@
           <nav class="cover-navigation navigation--social">
             <ul class="navigation">
 
-              {% if site.author.portfoilio_link %}
-
+              {% if site.author.codepen %}
+                <li class="navigation__item">
+                  <a href="{{ site.author.codepen }}" title="Codepen" target="_blank">
+                    <i class="icon icon-laptop"></i>
+                    <span class="label">Codepen</span>
+                  </a>
+                </li>
               {% endif %}
 
               {% if site.author.photo_site %}
