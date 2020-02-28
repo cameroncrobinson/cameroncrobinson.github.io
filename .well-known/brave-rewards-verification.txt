@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: cameroncrobinson.com
-Token: 67f18ce6a47f3405abef1f618dc810b1975115744a026c6228a7bfc385279e9c
+Token: 11ddf860f29bcff1a2e69fa35bcab7a93b2630527980cb3353b12de204318723
