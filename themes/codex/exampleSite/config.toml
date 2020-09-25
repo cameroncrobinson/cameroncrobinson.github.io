@@ -1,12 +1,14 @@
+# REMOVE THIS
+themesDir = "../../" 
+
 # DO NOT REMOVE THIS
-theme = "codex" 
+theme = "hugo-theme-codex" 
 
 # Override these settings with your own
 title = "codex"
 languageCode = "en-us"
 baseURL = "https://example.org/"
 copyright = "© {year}"
-
 
 # Add your Disqus shortname here.
 # disqusShortname = ""
@@ -21,12 +23,12 @@ copyright = "© {year}"
   dateFormat = "Jan 2 2006"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
-  twitter = "https://twitter.com/cam4hire"
-  github = "https://github.com/cameroncrobinson"
+  twitter = "https://twitter.com/<your handle>"
+  github = "https://github.com/<your handle>"
   # email = "mailto:<your email>"
   # facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"
-  # instagram = "https://instagram.com/cam4hire"
+  # instagram = "https://instagram.com/<your handle>"
   # linkedin = "<link to your profile>"
   # youtube = "https://www.youtube.com/channel/<your channel>"
   
