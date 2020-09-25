@@ -2,7 +2,7 @@
 title:  "PHP, ASP.NET and React"
 date:   2018-08-28
 categories: [Web development]
-tags: [blog]
+tags: [react]
 ---
 
 My main focuses right now are PHP, ASP.NET CORE and React. 

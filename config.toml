@@ -7,6 +7,7 @@ languageCode = "en-us"
 baseURL = "https://example.org/"
 copyright = "© {year}"
 
+
 # Add your Disqus shortname here.
 # disqusShortname = ""
 
@@ -20,12 +21,12 @@ copyright = "© {year}"
   dateFormat = "Jan 2 2006"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
-  twitter = "https://twitter.com/<your handle>"
-  github = "https://github.com/<your handle>"
+  twitter = "https://twitter.com/cam4hire"
+  github = "https://github.com/cameroncrobinson"
   # email = "mailto:<your email>"
   # facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"
-  # instagram = "https://instagram.com/<your handle>"
+  # instagram = "https://instagram.com/cam4hire"
   # linkedin = "<link to your profile>"
   # youtube = "https://www.youtube.com/channel/<your channel>"
   

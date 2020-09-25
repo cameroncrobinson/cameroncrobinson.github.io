@@ -2,7 +2,7 @@
 title:  "Moving to Gatsby Js"
 date:   2018-10-22
 categories: [Web development]
-tags: [blog]
+tags: [react]
 ---
 
 I've now begun the process of moving my blog over to Gatsbyjs.

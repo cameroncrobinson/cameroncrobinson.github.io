@@ -2,7 +2,7 @@
 title:  "Surviving The Coding Bootcamp"
 date:   2018-06-16
 categories: [Web development]
-tags: [blog]
+tags: [coding bootcamp]
 ---
 I know that the post-bootcamp life can be hectic and very stressful, especially with the money that you probably put in and this being a whole new career path looming over you. Here are the things I did and the mindset I had while initially job searching two years ago when I first got out of my coding bootcamp.
 

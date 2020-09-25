@@ -1,0 +1,1 @@
+.tag__link{background:#762323;color:#ede897}.tag__link:hover{background:#ede897;color:#762323}@keyframes fancyColor{0%{color:#ede897}50%{color:#762323}100%{color:#ede897}}.fancy{color:#ede897;animation-duration:2.5s;animation-name:fancyColor;animation-iteration-count:infinite;animation-direction:alternate}
