@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on codex</title>
+    <link>https://cameroncrobinson.com/tags/</link>
+    <description>Recent content in Tags on codex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cameroncrobinson.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>https://cameroncrobinson.com/tags/hugo/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cameroncrobinson.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://cameroncrobinson.com/tags/blog/</link>
+      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cameroncrobinson.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>comments</title>
+      <link>https://cameroncrobinson.com/tags/comments/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cameroncrobinson.com/tags/comments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>react</title>
+      <link>https://cameroncrobinson.com/tags/react/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cameroncrobinson.com/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coding bootcamp</title>
+      <link>https://cameroncrobinson.com/tags/coding-bootcamp/</link>
+      <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cameroncrobinson.com/tags/coding-bootcamp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

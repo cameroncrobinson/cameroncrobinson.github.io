@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>comments on codex</title>
+    <link>https://cameroncrobinson.com/tags/comments/</link>
+    <description>Recent content in comments on codex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cameroncrobinson.com/tags/comments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Side Comments from bottom</title>
+      <link>https://cameroncrobinson.com/blog/2020-02-06-side-bottom-comments/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cameroncrobinson.com/blog/2020-02-06-side-bottom-comments/</guid>
+      <description>Hello all,
+It&amp;rsquo;s been a while. Just wanted to pop back in with a small project I started on Codepen. With the way the most blog/publishing platforms are designing content pages, there is a quite a bit of unused room on the right. Often, that space is used for ads in order to create revenue for the site. I think a better thing is to add comments to the side that coincide with certain parts of the post.</description>
+    </item>
+    
+  </channel>
+</rss>

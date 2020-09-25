@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web development on codex</title>
+    <link>https://cameroncrobinson.com/categories/web-development/</link>
+    <description>Recent content in Web development on codex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cameroncrobinson.com/categories/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Side Comments from bottom</title>
+      <link>https://cameroncrobinson.com/blog/2020-02-06-side-bottom-comments/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cameroncrobinson.com/blog/2020-02-06-side-bottom-comments/</guid>
+      <description>Hello all,
+It&amp;rsquo;s been a while. Just wanted to pop back in with a small project I started on Codepen. With the way the most blog/publishing platforms are designing content pages, there is a quite a bit of unused room on the right. Often, that space is used for ads in order to create revenue for the site. I think a better thing is to add comments to the side that coincide with certain parts of the post.</description>
+    </item>
+    
+    <item>
+      <title>Codepen Challenge: Fullscreen Menu</title>
+      <link>https://cameroncrobinson.com/blog/2020-01-14-codepen-menu/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cameroncrobinson.com/blog/2020-01-14-codepen-menu/</guid>
+      <description>Today&amp;rsquo;s project was focused on this week&amp;rsquo;s challenge from Codepen. The challenge requirements are typically pretty simple which means there is a whole lot of room for variety in how you solve the problem. This week&amp;rsquo;s challenge was to create a nav menu that filled the whole page. The way that I went about it was to make a menu that connects by sliding in from the top and bottom of the screen.</description>
+    </item>
+    
+    <item>
+      <title>Codepen: Page Slides with Progress bar built-in</title>
+      <link>https://cameroncrobinson.com/blog/2020-01-13-bio-slides-progress-bar/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cameroncrobinson.com/blog/2020-01-13-bio-slides-progress-bar/</guid>
+      <description>For today&amp;rsquo;s project I decided to not use any library&amp;hellip;unless you want to count Font Awesome&amp;rsquo;s library for the arrow icons. Today&amp;rsquo;s project was centered around thinking about how UX and UI meld together. We want to give users a nice experience and we want them to have a good experience. I once read somewhere that good design is when the user isn&amp;rsquo;t aware that it&amp;rsquo;s good. It means that the ease of use is built into the experience.</description>
+    </item>
+    
+    <item>
+      <title>CodePen: Bio Page Mockup</title>
+      <link>https://cameroncrobinson.com/blog/2020-01-12-bio-pages/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cameroncrobinson.com/blog/2020-01-12-bio-pages/</guid>
+      <description>Right now I&amp;rsquo;m making a bit of a challenge for myself to create a few projects inspired by this blog:. The first of these 21 pages was a bio page mockup. I want see what could be build with minimal code and using jquery to add some nifty animation and a little bit of style to your average bio page. One thing I know about the modern web landscape is that everyone wants to reduce the amount of clicks it takes until you get to where you want to go from the user perspective.</description>
+    </item>
+    
+    <item>
+      <title>Working Google App Scripts to populate a form from Sheets pt. 1</title>
+      <link>https://cameroncrobinson.com/blog/2020-01-03-google-forms/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cameroncrobinson.com/blog/2020-01-03-google-forms/</guid>
+      <description>Over the past view days I&amp;rsquo;ve been working on a couple of things for project with with Google Forms integrating with Google Sheets. Exporting user input from Forms to Sheets is already built in to the UI. But populating a form with date from Google Sheets is what I was after. At first I thought that I might try to reverse engineer this html form that submits the input to a row on a sheet.</description>
+    </item>
+    
+    <item>
+      <title>Moving to Gatsby Js</title>
+      <link>https://cameroncrobinson.com/blog/2018-10-22-blog-react/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cameroncrobinson.com/blog/2018-10-22-blog-react/</guid>
+      <description>I&amp;rsquo;ve now begun the process of moving my blog over to Gatsbyjs. Gatsby is build using react and is more like a static PWA than anything else. It&amp;rsquo;s a great way to get started developing in React and is proving to be a fun little project. I will eventually be using Gatsby for another project as well. For now, I wanted to use it for a personal project to slowly get comfortable with it.</description>
+    </item>
+    
+    <item>
+      <title>PHP, ASP.NET and React</title>
+      <link>https://cameroncrobinson.com/blog/2018-08-28-php-asp-react/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cameroncrobinson.com/blog/2018-08-28-php-asp-react/</guid>
+      <description>My main focuses right now are PHP, ASP.NET CORE and React. Right now, I&amp;rsquo;m taking the basic stuff I&amp;rsquo;m learning about PHP and building stuff right away with it. Going through the entire course on Team Treehouse without building anything has led to me getting discouraged and feeling like I&amp;rsquo;m not learning fast enough. I&amp;rsquo;m finding that practically buiilding and changing a project of my own as learn with the videos does a lot to keep me encouraged.</description>
+    </item>
+    
+    <item>
+      <title>.NET | Team Treehouse</title>
+      <link>https://cameroncrobinson.com/blog/2018-07-17-team-treehouse/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cameroncrobinson.com/blog/2018-07-17-team-treehouse/</guid>
+      <description>As I have begun to do a dive back into .NET, I figured it would probably be best to actually do something that had a structure to it and not just a bunch of small exercises here and there. Team Treehouse has a course on C# and one on ASP.Net. Being in the current state of non-employment this week, if I simply treated the courses as a full-time job, I could actually be finished with both by the end of the week.</description>
+    </item>
+    
+    <item>
+      <title>.NET | Diving Back In</title>
+      <link>https://cameroncrobinson.com/blog/2018-07-15-net-framework/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cameroncrobinson.com/blog/2018-07-15-net-framework/</guid>
+      <description>After a while of exploring different technologies and having my first two jobs being mostly CMS based (WordPress and Drupal), my next position will be starting off doing QA in .NET applications. I have quite a bit to relearn. The past two years I have been mostly focusing on front-end frameworks and dipping my toes into design. I&amp;rsquo;ve also been exploring more in digital marketing and anlytics for sites. This is the first dive into true software engineering.</description>
+    </item>
+    
+    <item>
+      <title>React and Laravel</title>
+      <link>https://cameroncrobinson.com/blog/2018-07-05-react-laravel/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cameroncrobinson.com/blog/2018-07-05-react-laravel/</guid>
+      <description>So far, I&amp;rsquo;ve looked at some of the React documentation and gone through a few tutorials. What I&amp;rsquo;m thinking is next is to have a small project where I build a cv.
+I&amp;rsquo;ve also begun to dive deeper in laravel. I&amp;rsquo;ve worked with Blade Templating before and know my way around templating files but have never truly built a template from complete scratch. That&amp;rsquo;s a little exciting too. I&amp;rsquo;ll probably make a wireframe in Adobe XD after I look up a few designs so I have an idea of what to make.</description>
+    </item>
+    
+    <item>
+      <title>Learning React</title>
+      <link>https://cameroncrobinson.com/blog/2018-06-27-learning-react/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cameroncrobinson.com/blog/2018-06-27-learning-react/</guid>
+      <description>With learning React I eventually came across the React for Drupal site. It&amp;rsquo;s honestly a bit of a godsend in that it gives a pretty solid walkthrough of design principles, courses, how-to&amp;rsquo;s and where to starts. The first place I did start was here. Understanding that even though the main syntax used in React in JSX, it is still essentially just Javascript was nice to know. I&amp;rsquo;ve since been going through the Level Up Tuts tutorials.</description>
+    </item>
+    
+    <item>
+      <title>React for Drupal</title>
+      <link>https://cameroncrobinson.com/blog/2018-06-25-react-for-drupal/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cameroncrobinson.com/blog/2018-06-25-react-for-drupal/</guid>
+      <description>Looking for the next project I&amp;rsquo;d like to dive into, I really wanted to build a media hubsite. Right now I&amp;rsquo;m using Adobe portfolio and that looks halfway decent (though I feel I&amp;rsquo;m giving myself some leeway there if I&amp;rsquo;m being honest). UIs can be helpful if done right. I feel though the UIs like the ones for the Adobe portfolio site are best used for a stack of work that doesn&amp;rsquo;t include the website said work is hosted on.</description>
+    </item>
+    
+    <item>
+      <title>Surviving The Coding Bootcamp</title>
+      <link>https://cameroncrobinson.com/blog/2018-06-16-surving-coding-bootcamp/</link>
+      <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cameroncrobinson.com/blog/2018-06-16-surving-coding-bootcamp/</guid>
+      <description>I know that the post-bootcamp life can be hectic and very stressful, especially with the money that you probably put in and this being a whole new career path looming over you. Here are the things I did and the mindset I had while initially job searching two years ago when I first got out of my coding bootcamp.
+You don’t know enough. That’s okay. No one else does either. I’m in my second job out of bootcamp and what I’ve learned from working with two teams is that everyone Googles looking for answers, everyone goes through Stack Overflow, when things break, half the time, more than one developer is looking at the problem.</description>
+    </item>
+    
+  </channel>
+</rss>

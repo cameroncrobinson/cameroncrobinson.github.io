@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coding bootcamp on codex</title>
+    <link>https://cameroncrobinson.com/tags/coding-bootcamp/</link>
+    <description>Recent content in coding bootcamp on codex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Sat, 16 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://cameroncrobinson.com/tags/coding-bootcamp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Surviving The Coding Bootcamp</title>
+      <link>https://cameroncrobinson.com/blog/2018-06-16-surving-coding-bootcamp/</link>
+      <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cameroncrobinson.com/blog/2018-06-16-surving-coding-bootcamp/</guid>
+      <description>I know that the post-bootcamp life can be hectic and very stressful, especially with the money that you probably put in and this being a whole new career path looming over you. Here are the things I did and the mindset I had while initially job searching two years ago when I first got out of my coding bootcamp.
+You don’t know enough. That’s okay. No one else does either. I’m in my second job out of bootcamp and what I’ve learned from working with two teams is that everyone Googles looking for answers, everyone goes through Stack Overflow, when things break, half the time, more than one developer is looking at the problem.</description>
+    </item>
+    
+  </channel>
+</rss>

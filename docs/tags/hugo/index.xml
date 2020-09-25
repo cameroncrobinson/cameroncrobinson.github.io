@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on codex</title>
+    <link>https://cameroncrobinson.com/tags/hugo/</link>
+    <description>Recent content in hugo on codex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cameroncrobinson.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrating to Hugo</title>
+      <link>https://cameroncrobinson.com/blog/2020-09-25-hugo-site/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cameroncrobinson.com/blog/2020-09-25-hugo-site/</guid>
+      <description>Using Sapper and Strapi
+Currently I am in the process of converting my blog to a Sapper blog that will be statically exported to Netlify. The local headless CMS was built using Strapi. The tutorial I followed for this was pretty straight forward.
+There are two small things I’d add though.
+For one Strapi uses markdown and Sapper is going to render in html. I’d download the “marked” package and import it into in svelte file that will require markdown conversion.</description>
+    </item>
+    
+  </channel>
+</rss>
