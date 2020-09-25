@@ -4,7 +4,7 @@ theme = "codex"
 # Override these settings with your own
 title = "codex"
 languageCode = "en-us"
-baseURL = "https://example.org/"
+baseURL = "https://cameroncrobinson.com"
 copyright = "© {year}"
 
 
