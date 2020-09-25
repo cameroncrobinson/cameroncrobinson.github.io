@@ -6,6 +6,7 @@ title = "codex"
 languageCode = "en-us"
 baseURL = "https://cameroncrobinson.com"
 copyright = "© {year}"
+publishDir = "docs"
 
 
 # Add your Disqus shortname here.
