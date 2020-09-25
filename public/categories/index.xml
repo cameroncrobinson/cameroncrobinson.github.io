@@ -2,31 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on codex</title>
-    <link>https://example.org/categories/</link>
+    <link>https://cameroncrobinson.com/categories/</link>
     <description>Recent content in Categories on codex</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cameroncrobinson.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>micro project</title>
-      <link>https://example.org/categories/micro-project/</link>
+      <link>https://cameroncrobinson.com/categories/micro-project/</link>
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/micro-project/</guid>
+      <guid>https://cameroncrobinson.com/categories/micro-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web development</title>
-      <link>https://example.org/categories/web-development/</link>
+      <link>https://cameroncrobinson.com/categories/web-development/</link>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/web-development/</guid>
+      <guid>https://cameroncrobinson.com/categories/web-development/</guid>
       <description></description>
     </item>
     

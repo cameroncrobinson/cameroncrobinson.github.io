@@ -2,31 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>react on codex</title>
-    <link>https://example.org/tags/react/</link>
+    <link>https://cameroncrobinson.com/tags/react/</link>
     <description>Recent content in react on codex</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://example.org/tags/react/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://cameroncrobinson.com/tags/react/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Moving to Gatsby Js</title>
-      <link>https://example.org/blog/2018-10-22-blog-react/</link>
+      <link>https://cameroncrobinson.com/blog/2018-10-22-blog-react/</link>
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/blog/2018-10-22-blog-react/</guid>
+      <guid>https://cameroncrobinson.com/blog/2018-10-22-blog-react/</guid>
       <description>I&amp;rsquo;ve now begun the process of moving my blog over to Gatsbyjs. Gatsby is build using react and is more like a static PWA than anything else. It&amp;rsquo;s a great way to get started developing in React and is proving to be a fun little project. I will eventually be using Gatsby for another project as well. For now, I wanted to use it for a personal project to slowly get comfortable with it.</description>
     </item>
     
     <item>
       <title>PHP, ASP.NET and React</title>
-      <link>https://example.org/blog/2018-08-28-php-asp-react/</link>
+      <link>https://cameroncrobinson.com/blog/2018-08-28-php-asp-react/</link>
       <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/blog/2018-08-28-php-asp-react/</guid>
+      <guid>https://cameroncrobinson.com/blog/2018-08-28-php-asp-react/</guid>
       <description>My main focuses right now are PHP, ASP.NET CORE and React. Right now, I&amp;rsquo;m taking the basic stuff I&amp;rsquo;m learning about PHP and building stuff right away with it. Going through the entire course on Team Treehouse without building anything has led to me getting discouraged and feeling like I&amp;rsquo;m not learning fast enough. I&amp;rsquo;m finding that practically buiilding and changing a project of my own as learn with the videos does a lot to keep me encouraged.</description>
     </item>
     

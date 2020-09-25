@@ -51,7 +51,7 @@
       "@type" : "BlogPosting",
       "mainEntityOfPage": {
             "@type": "WebPage",
-            "@id": "https:\/\/example.org\/"
+            "@id": "https:\/\/cameroncrobinson.com"
       },
       "articleSection" : "blog",
       "name" : "Working Google App Scripts to populate a form from Sheets pt. 1",
@@ -66,7 +66,7 @@
       "copyrightYear" : "2020",
       "datePublished": "2020-01-03 00:00:00 \u002b0000 UTC",
       "dateModified" : "2020-01-03 00:00:00 \u002b0000 UTC",
-      "url" : "https:\/\/example.org\/blog\/2020-01-03-google-forms\/",
+      "url" : "https:\/\/cameroncrobinson.com\/blog\/2020-01-03-google-forms\/",
       "wordCount" : "247",
       "keywords" : ["Blog"]
     }
@@ -130,7 +130,7 @@ For now I&rsquo;ve done this to simplify the date output in Form:</p>
 if(nameValues1[i][1] == null)
 volunteerDates[i] = new Date(datesValues[i][0]).toString();
 for(let i = 0; i &lt; volunteerDates.length; i++){
-volunteerDates[i] = volunteerDates[i].split(&rsquo; 00:')[0];
+volunteerDates[i] = volunteerDates[i].split(' 00:')[0];
 }</p>
 <p>I&rsquo;m sure there is a cleaner way to clean up the code but for now it&rsquo;s a good fix I&rsquo;ll figure out
 how to filter out dates based on whether cells are empty within the same row or not.</p>
@@ -143,19 +143,19 @@ how to filter out dates based on whether cells are empty within the same row or 
 <ul class="tags__list">
     
     <li class="tag__item">
-        <a class="tag__link" href="https://example.org/tags/blog/">blog</a>
+        <a class="tag__link" href="https://cameroncrobinson.com/tags/blog/">blog</a>
     </li></ul>
 
  <div class="pagination">
   
-    <a class="pagination__item" href="https://example.org/blog/2018-10-22-blog-react/">
+    <a class="pagination__item" href="https://cameroncrobinson.com/blog/2018-10-22-blog-react/">
         <span class="pagination__label">Previous Post</span>
         <span class="pagination__title">Moving to Gatsby Js</span>
     </a>
   
 
   
-    <a class="pagination__item" href="https://example.org/blog/2020-01-12-bio-pages/">
+    <a class="pagination__item" href="https://cameroncrobinson.com/blog/2020-01-12-bio-pages/">
       <span class="pagination__label">Next Post</span>
       <span class="pagination__title" >CodePen: Bio Page Mockup</a>
     </a>
@@ -174,7 +174,7 @@ how to filter out dates based on whether cells are empty within the same row or 
       <a class="social-icons__link" title="Twitter"
          href="https://twitter.com/cam4hire"
          target="_blank" rel="noopener">
-        <div class="social-icons__icon" style="background-image: url('https://example.org/svg/twitter.svg')"></div>
+        <div class="social-icons__icon" style="background-image: url('https://cameroncrobinson.com/svg/twitter.svg')"></div>
       </a>
     
   
@@ -183,7 +183,7 @@ how to filter out dates based on whether cells are empty within the same row or 
       <a class="social-icons__link" title="GitHub"
          href="https://github.com/cameroncrobinson"
          target="_blank" rel="noopener">
-        <div class="social-icons__icon" style="background-image: url('https://example.org/svg/github.svg')"></div>
+        <div class="social-icons__icon" style="background-image: url('https://cameroncrobinson.com/svg/github.svg')"></div>
       </a>
     
      

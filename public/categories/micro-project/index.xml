@@ -2,22 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>micro project on codex</title>
-    <link>https://example.org/categories/micro-project/</link>
+    <link>https://cameroncrobinson.com/categories/micro-project/</link>
     <description>Recent content in micro project on codex</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://example.org/categories/micro-project/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cameroncrobinson.com/categories/micro-project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Migrating to Hugo</title>
-      <link>https://example.org/blog/2020-09-25-hugo-site/</link>
+      <link>https://cameroncrobinson.com/blog/2020-09-25-hugo-site/</link>
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/blog/2020-09-25-hugo-site/</guid>
+      <guid>https://cameroncrobinson.com/blog/2020-09-25-hugo-site/</guid>
       <description>Using Sapper and Strapi
 Currently I am in the process of converting my blog to a Sapper blog that will be statically exported to Netlify. The local headless CMS was built using Strapi. The tutorial I followed for this was pretty straight forward.
 There are two small things I’d add though.
@@ -26,10 +22,10 @@ For one Strapi uses markdown and Sapper is going to render in html. I’d downlo
     
     <item>
       <title>Micro Projects and Wave Buttons</title>
-      <link>https://example.org/blog/2020-08-29-wave-button/</link>
+      <link>https://cameroncrobinson.com/blog/2020-08-29-wave-button/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/blog/2020-08-29-wave-button/</guid>
+      <guid>https://cameroncrobinson.com/blog/2020-08-29-wave-button/</guid>
       <description>It&amp;rsquo;s been quite a while since I posted an update. Crazy year so far. One of the things that I wanted to do despite the craziness of this year is to code for myself. I feel as though it is important, in a way to take ownership of my own skills and to achieve a side vision of financial freedom/independence. That all starts with some small steps. Hence, how I thought about doing micro projects.</description>
     </item>
     
